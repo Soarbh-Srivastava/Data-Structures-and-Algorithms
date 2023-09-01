@@ -1,7 +1,0 @@
-Calculating the adderess of the element in the array.
-Adderess of data element, A[k]= BA(A) + W(k-lower_bound)
-
-A = array.
-k = index of adderess for which we need to Calculate base adderess of the array.
-BA =  Base adderess of the array A.
-W= Size of element in memory.
